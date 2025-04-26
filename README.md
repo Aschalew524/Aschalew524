@@ -7,16 +7,14 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
-- 🌱 **Currently Learning:** Enhancing my skills and knowledge through various projects and coursework in computer science and engineering.
-- 👯 **Looking to Collaborate:** Excited to work on innovative projects, especially in software development, mobile app creation, and exploring new technologies.
-- 🤔 **Always Eager to Learn:** I welcome insights and support from the community to help me grow and improve.
-- 💬 **Let's Chat:** Feel free to reach out if you want to discuss programming, software development, or any tech-related topics!
-- **Email:** [aschalewabay24@gmail.com](mailto:aschalewabay24@gmail.com)
-- **Telegram:** [@asche_24](https://t.me/asche_24)
-
----
+- 🌱 **Currently Learning:** Advancing my skills through projects and coursework in computer science and engineering.
+- 👯 **Looking to Collaborate:** Excited to work on innovative projects, especially in software development, mobile apps, and emerging technologies.
+- 🤔 **Always Eager to Learn:** Open to insights and mentorship to enhance my growth.
+- 💬 **Let's Chat:** Always happy to discuss programming, development, or tech in general!
+- 📧 **Email:** [aschalewabay24@gmail.com](mailto:aschalewabay24@gmail.com)
+- 💬 **Telegram:** [@asche_24](https://t.me/asche_24)
 
 ---
 
@@ -45,11 +43,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -57,27 +64,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
@@ -89,9 +83,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aschalew524&show_icons=true&locale=en&layout=compact" alt="aschalew524" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aschalew524&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aschalew524&label=Profile%20views&color=0e75b6&style=flat" alt="aschalew524" />
+  <img src="https://komarev.com/ghpvc/?username=aschalew524&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
