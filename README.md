@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aschalew Abayneh</h1>
-
 <p align="center">
   <strong>Computer Science and Engineering Student | Software Developer | Tech Enthusiast</strong>
 </p>
 
 ---
-
-
-
 
 ### 🌐 Connect with Me
 
