@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aschalew Abayneh</h1>
 <p align="center">
-  <strong>Computer Science and Engineering| Software Developer | Tech Enthusiast</strong>
+  <strong>CSE| Software Developer | Tech Enthusiast</strong>
 </p>
 
 ---
